@@ -9,15 +9,15 @@ La neutralité du web est un principe. Elle garantit aux internautes un accès �
 
 Quand on regarde une vidéo ou des nouvelles sur Youtube ou Facebook, on a besoin d'[un fournissuer d'accès à Internet](https://fr.wikipedia.org/wiki/Fournisseur_d%27accès_à_Internet) ([ISP Internet service provider](https://en.wikipedia.org/wiki/Internet_service_provider) en anglais) qui nous permet de se connecter à ce contenu. L'idée de la neutralité est de traiter tous les trafics du web d'égale à égale. 
 
-Il interdit à un fournisseur d’accès de permettre un accès plus rapide à certains services qu’à d’autres càd pouvoir glisser certaines données dans des «voies rapides» tout en bloquant ou ralentissant d'autres, ou encore de filtrer certains contenus ou services.
+Il est interdit à un fournisseur d’accès de permettre un accès plus rapide à certains services qu’à d’autres càd pouvoir glisser certaines données dans des «voies rapides» tout en bloquant ou ralentissant d'autres, ou encore de filtrer certains contenus ou services.
 (http://www.lemonde.fr/pixels/article/2017/11/22/qu-est-ce-que-la-neutralite-du-net_5218670_4408996.html)
 
 Ces entreprises ne devraient pas être en mesure de vous empêcher d'accéder à un service comme Skype ou de ralentir [Netflix](https://www.bloomberg.com/news/articles/2017-12-14/netflix-is-less-noisy-defender-of-net-neutrality-as-vote-arrives) ou Hulu, afin de vous encourager à conserver votre bouquet de câbles ou à acheter un service de streaming vidéo différent.
 
-**2. Est-ce réglémentée?**
+**2. Est-ce réglémenté ?**
 
 La neutralité du web est une règle non écrite globalement respectée mais qui n’avait pas de force loi.
-En Europe, le respect de ce principe est imposé par le régulateur des télécoms. Il a été garantie depuis le printemps 2016.
+En Europe, le respect de ce principe est imposé par le régulateur des télécoms. Il a été garanti depuis le printemps 2016.
 * En **France**, le Projet de loi pour une République numérique prévoit la neutralité du Net dans son texte. [La loi n° 2016-1321 du 7 octobre 2016 pour une République numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=id) qui transpose le règlement européen établissant des mesures relatives à l’accès à un internet ouvert assurant la neutralité.
 * Aux **Etats-Unis**, [Obama a mis une loi qui garantit la neutralité du web.](https://obamawhitehouse.archives.gov/node/323681) Cependant, quand Trump a pris le pouvoir il a nommé à la tête de la FCC (commission fédérale des communications) un opposant notoire à la neutralité du Net: [Ajit Pai](https://en.wikipedia.org/wiki/Ajit_Pai), c’est là que ce [principe a pris fin](http://www.thisisinsider.com/net-neutrality-fcc-ajit-pai-trump-plan-meaning-2017-11).
 
