@@ -16,7 +16,7 @@ Ces entreprises ne devraient pas être en mesure de vous empêcher d'accéder à
 
 **2. Est-ce réglémentée?**
 
-La neutralité du web est une règle non écrite globalement respectée mais qui n’avait pas de force loi.
+La neutralité du web est une règle non écrite globalement respectée mais qui n’avait pas force de loi.
 En Europe, le respect de ce principe est imposé par le régulateur des télécoms. Il a été garantie depuis le printemps 2016.
 * En **France**, le Projet de loi pour une République numérique prévoit la neutralité du Net dans son texte. [La loi n° 2016-1321 du 7 octobre 2016 pour une République numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033202746&categorieLien=id) qui transpose le règlement européen établissant des mesures relatives à l’accès à un internet ouvert assurant la neutralité.
 * Aux **Etats-Unis**, [Obama a mis une loi qui garantit la neutralité du web.](https://obamawhitehouse.archives.gov/node/323681) Cependant, quand Trump a pris le pouvoir il a nommé à la tête de la FCC (commission fédérale des communications) un opposant notoire à la neutralité du Net: [Ajit Pai](https://en.wikipedia.org/wiki/Ajit_Pai), c’est là que ce [principe a pris fin](http://www.thisisinsider.com/net-neutrality-fcc-ajit-pai-trump-plan-meaning-2017-11).
@@ -34,10 +34,10 @@ Voici les raisions pour la neutralité du Net:
 
 * Assurer la liberté individuelle fondamentale:
 Chacun a le droit de lire et de publier du contenu sur internet, en respectant la loi bien sûr, sans qu’un FAI ne décide de ce qui est prioritaire. 
-* Assurer la libre concurrence
-* Pas de censure
-* Etre actif sur internet
-* Booster l'innovation
+* Assurer la libre concurrence.
+* Pas de censure.
+* Etre actif sur internet.
+* Booster l'innovation.
 
 Source: [Dix raisons d’être pour la neutralité du Net](http://www.slate.fr/story/69403/pourquoi-etre-pour-la-neutralite-du-net)
 
@@ -46,18 +46,18 @@ Au rang des défenseurs s’illustrent également la quasi-totalité des grandes
 **4. Les anti-neutralité**
 
 * Leur principal argument est l’argument économique:
-Déployer des infrastructures, et en particulier la fibre, coûte cher. Et selon eux, assouplir les règles autour de la neutralité du net leur permettrait d’investir dans une meilleure qualité de service
-* La neutralité du web rend impossible un service personnalisé
+déployer des infrastructures, et en particulier la fibre, coûte cher. Et selon eux, assouplir les règles autour de la neutralité du net leur permettrait d’investir dans une meilleure qualité de service.
+* La neutralité du web rend impossible un service personnalisé.
 * Elle réduit les Télécoms à de simple porteurs d’information.
 
 Source: [Julien Boyer: Six raisons d’être contre la Neutralité du Net](http://julienboyer.net/ecrivain/six-raisons-detre-contre-la-neutralite-du-net/)
 
 
 **5. Exemple: Google et la neutralité des recherches**
-La question qui se pose: 
-**Comment sont affichées les résultats de Google** ?
+* La question qui se pose: 
+**Comment sont affichés les résultats de Google** ?
 
-**5.1. Serach Engine Optimization (SEO)** 
+**5.1. Search Engine Optimization (SEO)** 
 
 **5.1.1.Définition du SEO** 
 
@@ -70,8 +70,8 @@ L'objectif est d'**améliorer le positionnement d'une page web dans les pages de
 
 **5.1.2. Limites du SEO**
 
-Malheureusement, il arrive que la compétitivité entre les entreprises pousse certains acteurs du web à des techniques de negative SEO (ou NSEO) destinées à faire du tort à leurs concurrents.
-Aujourd’hui, il reste possible de faire du tort à un concurrent en utilisant des techniques de [SEO Black-hat](https://fr.wikipedia.org/wiki/Black_hat) (S'affranchir des règles et conseils de Google pour optimiser le référencement d'un site web).
+Malheureusement, il arrive que la compétitivité entre les entreprises pousse certains acteurs du web à des techniques de *negative SEO* (ou NSEO) destinées à faire du tort à leurs concurrents.
+Aujourd’hui, il reste possible de faire du tort à un concurrent en utilisant des techniques de [SEO Black-hat](https://fr.wikipedia.org/wiki/Black_hat) (s'affranchir des règles et conseils de Google pour optimiser le référencement d'un site web).
 Mais alors comment fonctionne le [negative SEO](https://seo-hero.ninja/wiki/negative-seo/) ? Il y a plusieurs techniques, mais la plus fréquente reste le [netlinking](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203513-netlinking-definition-traduction/) de mauvaise qualité ==> Une technique de référencement d'un site internet qui consiste à vouloir multiplier le nombre de liens hypertextes, ou "[backlinks](https://en.wikipedia.org/wiki/Backlink)" pointant vers lui. 
 Objectifs de cette démarche ==> améliorer la qualité du trafic et la popularité du site web dans le but d'obtenir un meilleur référencement naturel.
 
